@@ -1,0 +1,11 @@
+{
+    "config": {
+      "unsafe-perm": true
+    },
+    "scripts": {
+    },
+    "devDependencies": {
+    },
+    "dependencies": {
+    }
+}
